@@ -47,9 +47,11 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
+<!--
 ## 🏆 GitHub Stats
 
 ![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbocpe&show_icons=true&theme=radical)
+-->
 
 ## 🔗 Connect with me:
 
