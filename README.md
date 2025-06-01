@@ -5,14 +5,9 @@
   + **A chat website using MEAN stack**
   + **An Aussie Rules mobile game** (help)
 - 🌱 I’m currently studying Bachelor of Information Technology - Software Development at Griffith University.
-- 👯 I’m looking to collaborate on an Aussie Rules mobile game.
-- 🤔 I’m looking for help with full-stack programming.
-- 💬 Ask me about **WebDev, SQL, Sports**.
 - 📫 How to reach me:
     + [bocminhkhoi@gmail.com](mailto:bocminhkhoi@gmail.com)
     + [khoi.boc@griffithuni.edu.au](mailto:khoi.boc@griffithuni.edu.au) (Griffith University)
-- ⚡ Why do I have this nickname?
-    + I used to play football/soccer in school and was able to witness a 19-year-old Kylian Mbappé thrashing through the defense during the 2018 FIFA World Cup. So my friends came up with this nickname and I have been using it since.
 
 ## 🚀 Skills and Technologies:
 - **Languages**:
@@ -56,4 +51,3 @@
 ## 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khoi-boc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_mbocpe_/)
